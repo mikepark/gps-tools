@@ -1,6 +1,6 @@
 #!/usr/bin/env octave
 
-root = '20080704'
+root = '20080713'
 
 eval ( sprintf( "tracks = load( '%s.gps' ); ", root ) )
 
@@ -14,13 +14,7 @@ end
 
 n = size(tracks,1);
 
-r=348:1099;
-r=1:810;
 r=1:n;
-
-%r = find(tracks(:,1)>36.86);
-%min(r)
-%max(r)
 
 plot(tracks(r,2),tracks(r,1),'-@;dog walk;')
 print -deps tracks.eps
