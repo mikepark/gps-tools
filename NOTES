@@ -1,0 +1,6 @@
+If you want udev to create the devices so they are readable and writable by non-priveleged users, create a file /etc/udev/rules.d/51-garmin.rules with contents
+SYSFS{idVendor}=="091e", SYSFS{idProduct}=="0003", MODE="0666"
+
+need to 
+
+  sudo /sbin/rmmod garmin_gps
