@@ -10,7 +10,7 @@ r=1:n;
 %max(r)
 
 plot(t(r,2),t(r,1),'-@;track;')
-print -deps tracks.eps
+eval(sprintf('print -deps %s.eps',root))
 
 clearplot
 closeplot
