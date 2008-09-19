@@ -1,17 +1,15 @@
-#!/usr/bin/env octave
+function tracks(root)
 
-root = '20080704'
+eval ( sprintf( "t = load( '%s.gps' ); ", root ) )
 
-eval ( sprintf( "tracks = load( '%s.gps' ); ", root ) )
-
-n = size(tracks,1);
+n = size(t,1);
 
 r=1:n;
 
 %min(r)
 %max(r)
 
-plot(tracks(r,2),tracks(r,1),'-@;track;')
+plot(t(r,2),t(r,1),'-@;track;')
 print -deps tracks.eps
 
 clearplot

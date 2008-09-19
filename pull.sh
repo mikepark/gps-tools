@@ -12,3 +12,5 @@ ex gpsbabel -t -i garmin -f ${source} -o garmin_txt,dist=s,grid=0,prec=8 -F ${gp
 ex gpsbabel -t -i garmin -f ${source} -o gpsdrive -F ${gps_root}.gps
 ex gpsbabel -t -i garmin -f ${source} -o kml,points=0,line_color=ff0000ff -F ${gps_root}.kml
 
+echo "tracks('${gps_root}')" | octave -q
+
