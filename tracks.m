@@ -12,6 +12,5 @@ r=1:n;
 plot(t(r,2),t(r,1),'-@;track;')
 eval(sprintf('print -deps %s.eps',root))
 
-clearplot
-closeplot
+clf
 
