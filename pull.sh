@@ -1,6 +1,12 @@
 #!/usr/bin/env bash
-echo $1
-gps_root=$1
+
+if [ -z $1 ]; then
+  gps_root=$(date +%Y%m%d)
+else
+  gps_root=$1
+fi
+
+echo $gps_root
 
 function ex {
     $* || ( echo FAILED: $* ; exit )
