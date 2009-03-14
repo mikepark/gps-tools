@@ -28,7 +28,7 @@
 			<scale>1.2</scale>
 		</IconStyle>
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="sh_ylw-pushpin13">
@@ -36,12 +36,12 @@
 			<scale>1.2</scale>
 		</IconStyle>
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="sn_ylw-pushpin">
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="sn_ylw-pushpin11">
@@ -53,7 +53,7 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<StyleMap id="msn_ylw-pushpin00">
@@ -75,12 +75,12 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="sn_ylw-pushpin0">
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="sh_ylw-pushpin120">
@@ -88,17 +88,17 @@
 			<scale>1.2</scale>
 		</IconStyle>
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="sn_ylw-pushpin1">
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="sn_ylw-pushpin14">
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<StyleMap id="msn_ylw-pushpin">
@@ -150,7 +150,7 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<StyleMap id="msn_ylw-pushpin61">
@@ -175,7 +175,7 @@
 	</StyleMap>
 	<Style id="sn_ylw-pushpin7">
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<StyleMap id="msn_ylw-pushpin3">
@@ -203,7 +203,7 @@
 			<scale>1.2</scale>
 		</IconStyle>
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="sh_ylw-pushpin170">
@@ -211,7 +211,7 @@
 			<scale>1.2</scale>
 		</IconStyle>
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<StyleMap id="msn_ylw-pushpin4">
@@ -242,7 +242,7 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="sh_ylw-pushpin">
@@ -250,7 +250,7 @@
 			<scale>1.2</scale>
 		</IconStyle>
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="sh_ylw-pushpin90">
@@ -262,7 +262,7 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="sh_ylw-pushpin000">
@@ -274,7 +274,7 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<StyleMap id="msn_ylw-pushpin20">
@@ -289,7 +289,7 @@
 	</StyleMap>
 	<Style id="sn_ylw-pushpin2">
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="sh_ylw-pushpin11">
@@ -297,7 +297,7 @@
 			<scale>1.2</scale>
 		</IconStyle>
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="sn_ylw-pushpin10">
@@ -309,7 +309,7 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<StyleMap id="msn_ylw-pushpin5">
@@ -327,12 +327,12 @@
 			<scale>1.2</scale>
 		</IconStyle>
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="sn_ylw-pushpin5">
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="sh_ylw-pushpin4">
@@ -344,12 +344,12 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="sn_ylw-pushpin9">
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="sh_ylw-pushpin16">
@@ -357,7 +357,7 @@
 			<scale>1.2</scale>
 		</IconStyle>
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<StyleMap id="msn_ylw-pushpin70">
@@ -389,12 +389,12 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="sn_ylw-pushpin00">
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<StyleMap id="msn_ylw-pushpin18">
@@ -409,7 +409,7 @@
 	</StyleMap>
 	<Style id="sn_ylw-pushpin4">
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="sh_ylw-pushpin0">
@@ -417,7 +417,7 @@
 			<scale>1.2</scale>
 		</IconStyle>
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="sh_ylw-pushpin1">
@@ -425,12 +425,12 @@
 			<scale>1.2</scale>
 		</IconStyle>
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="sn_ylw-pushpin6">
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<StyleMap id="msn_ylw-pushpin71">
@@ -458,7 +458,7 @@
 			<scale>1.2</scale>
 		</IconStyle>
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="sn_ylw-pushpin100">
@@ -470,12 +470,12 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="sn_ylw-pushpin8">
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="sn_ylw-pushpin13">
@@ -487,7 +487,7 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="sh_ylw-pushpin3">
@@ -495,7 +495,7 @@
 			<scale>1.2</scale>
 		</IconStyle>
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="sh_ylw-pushpin2">
@@ -503,7 +503,7 @@
 			<scale>1.2</scale>
 		</IconStyle>
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="sh_ylw-pushpin17">
@@ -515,7 +515,7 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<StyleMap id="msn_ylw-pushpin7">
@@ -533,7 +533,7 @@
 			<scale>1.2</scale>
 		</IconStyle>
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="sn_ylw-pushpin31">
@@ -545,7 +545,7 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="sn_ylw-pushpin30">
@@ -557,7 +557,7 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="sh_ylw-pushpin40">
@@ -565,7 +565,7 @@
 			<scale>1.2</scale>
 		</IconStyle>
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<StyleMap id="msn_ylw-pushpin62">
@@ -583,7 +583,7 @@
 			<scale>1.2</scale>
 		</IconStyle>
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<StyleMap id="msn_ylw-pushpin17">
@@ -625,7 +625,7 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="sh_ylw-pushpin7">
@@ -633,12 +633,12 @@
 			<scale>1.2</scale>
 		</IconStyle>
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="sn_ylw-pushpin40">
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="sh_ylw-pushpin00">
@@ -646,7 +646,7 @@
 			<scale>1.2</scale>
 		</IconStyle>
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="sn_ylw-pushpin21">
@@ -658,12 +658,12 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="sn_ylw-pushpin16">
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="sh_ylw-pushpin12">
@@ -671,7 +671,7 @@
 			<scale>1.2</scale>
 		</IconStyle>
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="sh_ylw-pushpin10">
@@ -679,7 +679,7 @@
 			<scale>1.2</scale>
 		</IconStyle>
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<StyleMap id="msn_ylw-pushpin50">
@@ -710,12 +710,12 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="sn_ylw-pushpin12">
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<StyleMap id="msn_ylw-pushpin11">
@@ -760,7 +760,7 @@
 	</StyleMap>
 	<Style id="sn_ylw-pushpin000">
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="sh_ylw-pushpin01">
@@ -772,7 +772,7 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="sn_ylw-pushpin400">
@@ -784,7 +784,7 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<StyleMap id="msn_ylw-pushpin130">
@@ -806,7 +806,7 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<StyleMap id="msn_ylw-pushpin80">
@@ -838,7 +838,7 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<StyleMap id="msn_ylw-pushpin30">
@@ -860,7 +860,7 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<StyleMap id="msn_ylw-pushpin13">
@@ -885,7 +885,7 @@
 	</StyleMap>
 	<Style id="sn_ylw-pushpin15">
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="sh_ylw-pushpin19">
@@ -893,7 +893,7 @@
 			<scale>1.2</scale>
 		</IconStyle>
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="sh_ylw-pushpin80">
@@ -905,7 +905,7 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<StyleMap id="msn_ylw-pushpin110">
@@ -920,7 +920,7 @@
 	</StyleMap>
 	<Style id="sn_ylw-pushpin22">
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="sh_ylw-pushpin22">
@@ -932,7 +932,7 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="sn_ylw-pushpin23">
@@ -944,12 +944,12 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="sn_ylw-pushpin220">
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="sn_ylw-pushpin17">
@@ -961,22 +961,22 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="sn_ylw-pushpin140">
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="sn_ylw-pushpin60">
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="sn_ylw-pushpin150">
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<StyleMap id="msn_ylw-pushpin100">
@@ -998,7 +998,7 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<StyleMap id="msn_ylw-pushpin19">
@@ -1020,7 +1020,7 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="sh_ylw-pushpin100">
@@ -1028,12 +1028,12 @@
 			<scale>1.2</scale>
 		</IconStyle>
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="sn_ylw-pushpin70">
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="sh_ylw-pushpin50">
@@ -1041,17 +1041,17 @@
 			<scale>1.2</scale>
 		</IconStyle>
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="sn_ylw-pushpin19">
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="sn_ylw-pushpin1000">
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="sh_ylw-pushpin61">
@@ -1059,7 +1059,7 @@
 			<scale>1.2</scale>
 		</IconStyle>
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="sh_ylw-pushpin41">
@@ -1071,12 +1071,12 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="sn_ylw-pushpin301">
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="sh_ylw-pushpin201">
@@ -1088,12 +1088,12 @@
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="sn_ylw-pushpin18">
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="sh_ylw-pushpin30">
@@ -1101,7 +1101,7 @@
 			<scale>1.2</scale>
 		</IconStyle>
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<StyleMap id="msn_ylw-pushpin131">
@@ -1149,7 +1149,7 @@
 			<scale>1.2</scale>
 		</IconStyle>
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<StyleMap id="msn_ylw-pushpin15">
@@ -1167,7 +1167,7 @@
 			<scale>1.2</scale>
 		</IconStyle>
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="sh_ylw-pushpin26">
@@ -1175,17 +1175,17 @@
 			<scale>1.2</scale>
 		</IconStyle>
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="sn_ylw-pushpin110">
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Style id="sn_ylw-pushpin170">
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<StyleMap id="msn_ylw-pushpin1100">
@@ -1210,7 +1210,7 @@
 	</StyleMap>
 	<Style id="sn_ylw-pushpin180">
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<StyleMap id="msn_ylw-pushpin72">
@@ -1228,7 +1228,7 @@
 			<scale>1.2</scale>
 		</IconStyle>
 		<LineStyle>
-			<width>10</width>
+			<width>6</width>
 		</LineStyle>
 	</Style>
 	<Folder>
